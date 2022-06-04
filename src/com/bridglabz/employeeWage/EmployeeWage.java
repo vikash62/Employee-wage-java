@@ -46,7 +46,7 @@ public class EmployeeWage
 
               default:
                   System.out.println("Employee is absent and the wage is : " + empWage);
-                  break;
+                  break;  
 
           }
       
